@@ -41,6 +41,7 @@
 
 ## 4. Структура проекта
 
+```bash
 src/
  ├── errors/
  │   ├── AppError.js
@@ -56,6 +57,8 @@ src/
  │   └── asyncHandler.js
  └── logger/
      └── logger.js
+
+```
 
 ---
 
